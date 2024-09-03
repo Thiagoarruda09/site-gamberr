@@ -15,7 +15,10 @@
 }
 
 body{display: flex;
-background-image: url(imagens/imagemdefundo.png);}
+background-image: url(imagens/imagemdefundo.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;}
 
 *{margin: 0px;
 padding: 0px;}
